@@ -1,4 +1,4 @@
-# T1EngenhariaDados - Mini Projeto de Pipeline de Dados e Análise com SQL
+# Livraria DevSaber - EngenhariaDados - Mini Projeto de Pipeline de Dados e Análise com SQL
 
 ## Contexto do Projeto
 
